@@ -40,10 +40,11 @@ To tackle this problem, we propose a **three-pronged solution**:
 
 ***
 ## Data
+> Taken from [YouData.ai](YouData.ai)
 
 The data used for training our models was sourced from an open source synthetic dataset on kaggle :
 
-- [Dataset Link](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
+- [Dataset Link](https://www.youdata.ai/datasets/661d160afde5d01e5b326b79)
 
 Our novelty comes with our incorporation of time and distance-based measures to train our model to better detect fraudulent transactions. We compute the distance between the last known location of an account and the current location along with the time interval between the transactions to allow the model to learn the anomalous behavior of certain transactions. This location data is sourced from the public IP information available with the transaction packet.
 
