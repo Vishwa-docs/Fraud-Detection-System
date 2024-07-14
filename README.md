@@ -31,12 +31,12 @@ To tackle this problem, we propose a **three-pronged solution**:
 4. Machine Learning and Pipelines : Tensorflow, Scikit-Learn, Jenkins 
 5. APIs : FastAPI
 6. Android App : Kotlin
-7. Cloud Messaging : Apache Kafka [Not Integrated Fully]
+7. Cloud Messaging : Apache Kafka
 
 ***
 # UI and App
-![Image1](https://github.com/Vishwa-docs/KH015_Krypton-Kochi_Hackathon/blob/main/Resources/Spam%20App.jpg)
-![Image2](https://github.com/Vishwa-docs/KH015_Krypton-Kochi_Hackathon/blob/main/Resources/WhatsApp%20Image%202024-02-04%20at%2015.19.31.jpeg)
+![Image1](https://github.com/Vishwa-docs/Fraud-Detection-System/blob/main/Resources/Spam%20App.jpg)
+![Image2](https://github.com/Vishwa-docs/Fraud-Detection-System/blob/main/Resources/WhatsApp%20Image%202024-02-04%20at%2015.19.31.jpeg)
 
 ***
 ## Data
